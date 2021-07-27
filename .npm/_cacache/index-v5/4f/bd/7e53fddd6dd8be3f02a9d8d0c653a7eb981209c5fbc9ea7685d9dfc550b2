@@ -1,0 +1,2 @@
+
+277069b71b19ba39f85d2c5aacd41aa15ec7f751	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/xtend/-/xtend-2.0.6.tgz","integrity":"sha1-XqZXptukRwacLlnFihE4ywxebO4=","time":1626891250299,"size":2399,"metadata":{"url":"https://registry.npmjs.org/xtend/-/xtend-2.0.6.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 21 Jul 2021 18:14:09 GMT","etag":"\"a63a1a8bd9a9e7073b376f983b59fd86\"","last-modified":"Sun, 27 May 2018 22:31:50 GMT","vary":"Accept-Encoding"}}}

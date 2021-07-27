@@ -1,0 +1,2 @@
+
+480c250ea08cf411d4a8b629f115d9441256b21a	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/octal/-/octal-1.0.0.tgz","integrity":"sha1-Y+cWKmjvvrniE1iNWOmJ0eXEUws=","time":1626891250298,"size":1592,"metadata":{"url":"https://registry.npmjs.org/octal/-/octal-1.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 21 Jul 2021 18:14:09 GMT","etag":"\"ba24e90b3fc65db51319e857a0f2c866\"","last-modified":"Sun, 27 May 2018 11:01:36 GMT","vary":"Accept-Encoding"}}}

@@ -1,0 +1,1 @@
+{"name":"tools","dist-tags":{"latest":"0.0.0"},"versions":{"0.0.0":{"name":"tools","version":"0.0.0","dependencies":{"express":"*","recline":"*","underscore":"*"},"directories":{"lib":"."},"dist":{"shasum":"a6b6a1f070ce8622db63e87d3469d4c876e8b649","tarball":"https://registry.npmjs.org/tools/-/tools-0.0.0.tgz"},"engines":{"node":"0.4.7"}}},"modified":"2011-05-23T14:11:17.901Z"}

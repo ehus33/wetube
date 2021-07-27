@@ -1,0 +1,2 @@
+
+9e5710c1b3de07816888cb7baf05eecf2996ba26	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/fildes/-/fildes-2.1.0.tgz","integrity":"sha1-D1gRK8JKQTy7h443AZ7CIn0POoI=","time":1626891259523,"size":41706,"metadata":{"url":"https://registry.npmjs.org/fildes/-/fildes-2.1.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 21 Jul 2021 18:14:17 GMT","etag":"\"5b0856afbe79335b638195432b001e5f\"","last-modified":"Sun, 27 May 2018 00:38:30 GMT","vary":"Accept-Encoding"}}}

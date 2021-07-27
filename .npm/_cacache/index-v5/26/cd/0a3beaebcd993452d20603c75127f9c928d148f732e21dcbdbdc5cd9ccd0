@@ -1,0 +1,2 @@
+
+45409bfafb49469d827c0f4fd13af532fa1c3e53	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ltgt/-/ltgt-2.2.1.tgz","integrity":"sha1-81ypHEk/e3PaDgdJUwTxezH4fuU=","time":1626891250362,"size":5086,"metadata":{"url":"https://registry.npmjs.org/ltgt/-/ltgt-2.2.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 21 Jul 2021 18:14:09 GMT","etag":"\"3eb576dfdde5727811214326fef29bbd\"","last-modified":"Sun, 27 May 2018 07:09:29 GMT","vary":"Accept-Encoding"}}}

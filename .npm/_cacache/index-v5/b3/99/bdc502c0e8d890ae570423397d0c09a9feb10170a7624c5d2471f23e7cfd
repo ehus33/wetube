@@ -1,0 +1,2 @@
+
+c1f0d9a897f33bcfc810dc842095f0e67107c374	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/bmp-js/-/bmp-js-0.0.1.tgz","integrity":"sha1-WtAUcJnROp84qnuZrx1ueGZu038=","time":1626891247929,"size":3199,"metadata":{"url":"https://registry.npmjs.org/bmp-js/-/bmp-js-0.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 21 Jul 2021 18:14:07 GMT","etag":"\"b816090f1130344a7477728a8cbf1047\"","last-modified":"Sat, 26 May 2018 18:41:03 GMT","vary":"Accept-Encoding"}}}

@@ -1,0 +1,2 @@
+
+fa04979e38c60c4088fedb94f3cd5605728f06ea	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/squeak/-/squeak-1.3.0.tgz","integrity":"sha1-MwRQN7ZDiLVnZ0uEMiplIQc5FsM=","time":1626891252459,"size":3017,"metadata":{"url":"https://registry.npmjs.org/squeak/-/squeak-1.3.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 21 Jul 2021 18:14:11 GMT","etag":"\"682a530828aa66499a93e00f9c58454d\"","last-modified":"Sun, 27 May 2018 18:06:07 GMT","vary":"Accept-Encoding"}}}

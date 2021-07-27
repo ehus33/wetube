@@ -1,0 +1,80 @@
+{
+	"analytics-uuid": "7054c3ed-021c-4d08-a367-0d9ec3e106c0",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1627408830699
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "111658552174234337961",
+		"email": "ethanh8093@gmail.com",
+		"email_verified": true,
+		"at_hash": "taJ_fTxcjXEzzsrcTUNL4w",
+		"iat": 1626890986,
+		"exp": 1626894586
+	},
+	"tokens": {
+		"expires_at": 1627416762765,
+		"refresh_token": "1//06WECL5S9gIU7CgYIARAAGAYSNwF-L9Ir0UTuuy3EyuDkY5IgKFLAWogjER3IVuJq7rA0D84J3_ZPS8UIsqlgBwlIqbW3MH2JhmQ",
+		"scopes": [],
+		"access_token": "ya29.a0ARrdaM_w6LmkMny0RTCjTAqDvSrAw26Flyqc2qDMMtXBFBMpxutoEkPuecXliOAES7hr---gW-F4XOwSOIWUhctAbf3gUXVpOUT33fjwc90iyxg49g6vgRuwgquicHUGF5J20T8Sw1PIpSdMUj18I-VG-YQJAZN2LGkmtA",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNkZjBhODMxZTA5M2ZhZTFlMjRkNzdkNDc4MzQ0MDVmOTVkMTdiNTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExNjU4NTUyMTc0MjM0MzM3OTYxIiwiZW1haWwiOiJldGhhbmg4MDkzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiYkV5U0FBOUxmZG5ObEgzbTVEYzJuUSIsImlhdCI6MTYyNzQxMzE2MywiZXhwIjoxNjI3NDE2NzYzfQ.R6AIjzdE8fm64H-kZrQxop_QkHPFQ1egoADic_A7e5ZgTWEzMzi9hGFrWf3IxBHXxEySvoK32WupCFBOeX96C9tKBYWtVGJuqUo7OJVLhPOBwSw8pEmtft5-l4Op0Ra02nAnvTu2cQWmoROK2rLkrIUBrngoHCiASflXnFUuZwhgrnNxAQlqK96B9VfGlvWORzFDnYmEsIJXWAye1VykHZIftQYt7UrAKmgwh1hQ3Ay7A9uV1RtHRW43widgETzP_cn5HyEvc2lprxuuBdqg6DbOScSENvdH9a-pYmcHVylwcCU13xDXniWlP6V41Zbv6RYGA6xMPK-MRbZRM2zjpw"
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"activeProjects": {
+		"/home/ethanh8093/cssi-day8": "secret-messaging-app-49110",
+		"/home/ethanh8093/cssi-day9": "development",
+		"/home/ethanh8093/cssi-day11": "keep-7497e",
+		"/home/ethanh8093": "keep-7497e",
+		"/home/ethanh8093/cssiFirebaseNotes": "keep-7497e"
+	},
+	"webconfig": {
+		"secret-messaging-app-49110": {
+			"projectId": "secret-messaging-app-49110",
+			"databaseURL": "https://secret-messaging-app-49110-default-rtdb.firebaseio.com",
+			"storageBucket": "secret-messaging-app-49110.appspot.com",
+			"apiKey": "AIzaSyCBRqhK_WmHKZaZy9kbc4Qauc2btaPrwsI",
+			"authDomain": "secret-messaging-app-49110.firebaseapp.com",
+			"messagingSenderId": "768310512801"
+		},
+		"secret-messaging-app-99bc0": {
+			"projectId": "secret-messaging-app-99bc0",
+			"appId": "1:584921141982:web:60fc21ec7351bc4eeee84f",
+			"databaseURL": "https://secret-messaging-app-99bc0-default-rtdb.firebaseio.com",
+			"storageBucket": "secret-messaging-app-99bc0.appspot.com",
+			"apiKey": "AIzaSyDppnm0ulsd9BM2NRokaNjZ5pli8FLjLMo",
+			"authDomain": "secret-messaging-app-99bc0.firebaseapp.com",
+			"messagingSenderId": "584921141982",
+			"measurementId": "G-CJ9TKR6SJG"
+		},
+		"keep-7497e": {
+			"projectId": "keep-7497e",
+			"appId": "1:972579836696:web:9c90ab574ab4b80aa9846d",
+			"databaseURL": "https://keep-7497e-default-rtdb.firebaseio.com",
+			"storageBucket": "keep-7497e.appspot.com",
+			"apiKey": "AIzaSyAeGB5292RqqB4z9QK8I9yz6BBgXFfxyrs",
+			"authDomain": "keep-7497e.firebaseapp.com",
+			"messagingSenderId": "972579836696",
+			"measurementId": "G-W3HSNQSV4L"
+		}
+	},
+	"lastError": 1627412100980
+}
