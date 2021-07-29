@@ -271,3 +271,105 @@ git master
 git status
 git add .
 git init https://github.com/ehus33/cssiFirebaseNotes.git
+git add .
+git commit -m "I created basic app form"
+git push origin main
+git push
+git push https://github.com/ehus33/cssiFirebaseNotes.git
+git push origin main
+git push
+git push origin master
+git init
+git login
+git remote set-url origin https://github.com/ehus33/cssiFirebaseNotes.git
+git push origin main
+git status
+git add .
+git status
+git push origin main
+git push origin master
+git push
+git push origin
+git push origin master
+firebase emulators:start --only hosting
+firebase init
+git clone https://github.com/ehus33/cssiFirebaseNotes2.git
+firebase use --add
+cd cssiFirebaseNotes2
+firebase use --add
+firebase emulators: start --only hosting
+firebase emulators:start --only hosting
+git add .
+git commit -m "I created the keep app"
+git push origin master
+git pull
+git init https://github.com/ehus33/wetube.git
+cd WeTube
+<html>
+<head>
+<meta charset="utf-8">
+<title>Display Webcam Stream</title>
+<style>
+#container {
+margin: 0px auto;
+width: 500px;
+height: 375px;
+border: 10px #333 solid;
+}
+#videoElement {
+width: 500px;
+height: 375px;
+background-color: #666;
+}
+</style>
+</head>
+<body>
+<div id="container">
+<video autoplay="true" id="videoElement">
+</video>
+</div>
+<script>
+</script>
+</body>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Display Webcam Stream</title>
+<style>
+#container {
+margin: 0px auto;
+width: 500px;
+height: 375px;
+border: 10px #333 solid;
+}
+#videoElement {
+width: 500px;
+height: 375px;
+background-color: #666;
+}
+</style>
+</head>
+<body>
+<div id="container">
+<video autoplay="true" id="videoElement">
+</video>
+</div>
+<script>
+</script>
+</body>
+cd https://github.com/ehus33/wetube.git
+cd wetube
+cd ehus33
+cd WeTube
+firebase emulators:start --only hosting
+firebase init
+git clone https://github.com/ehus33/cssiFirebaseNotes3.git
+firebase add
+firebase init
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+firebase init
+firebase use --add
+git clone https://github.com/ryanchen321/cssiFirebaseNotes3.git
+firebase emulators:start --only hosting

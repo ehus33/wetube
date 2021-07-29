@@ -1,0 +1,2 @@
+2021-07-27 20:25:17,918 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2021-07-27 20:25:17,970 DEBUG    root            Running [gcloud.version] with arguments: [--format: "json"]
