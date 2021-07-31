@@ -11,17 +11,11 @@
     ]
   },
   "emulators": {
-    "auth": {
-      "port": 8111
-    },
     "database": {
-      "port": 8112
-    },
-    "hosting": {
-      "port": 5000
+      "port": 9000
     },
     "ui": {
-      "enabled": true
+      "enabled": false
     }
   }
 }

@@ -8,7 +8,7 @@
 		"node8DeploysDisabledAfter": 1613390400000,
 		"node8RuntimeDisabledAfter": 1615809600000,
 		"node8WarnAfter": 1600128000000,
-		"fetched": 1627497425965
+		"fetched": 1627671999360
 	},
 	"usage": true,
 	"user": {
@@ -23,20 +23,14 @@
 		"exp": 1626894586
 	},
 	"tokens": {
-		"expires_at": 1627583021086,
+		"expires_at": 1627701543459,
 		"refresh_token": "1//06WECL5S9gIU7CgYIARAAGAYSNwF-L9Ir0UTuuy3EyuDkY5IgKFLAWogjER3IVuJq7rA0D84J3_ZPS8UIsqlgBwlIqbW3MH2JhmQ",
-		"scopes": [
-			"email",
-			"https://www.googleapis.com/auth/cloud-platform",
-			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
-			"https://www.googleapis.com/auth/firebase",
-			"openid"
-		],
-		"access_token": "ya29.a0ARrdaM-SKTtPPibrDGXhNMTBufWIoOqarfZAHvk4Lfmk5mECw8swBhtvdNWugYooWS4OF0tu2XOXefyOqriuV-q2ORvPs-5MrCyrJ-ssdciFilM8LJy6hAz-fqP-IJnK39xoI5IqX6Q8OKcowrECD_GZqPkb9glKT9383A",
+		"scopes": [],
+		"access_token": "ya29.a0ARrdaM9BDVcVcZlz3OxDnGvRN8_5bH4UT9ulPhIQtMMrg52rpxm0-GAzGR8cF3z1il1pvQYc4F0YWPaYd2E2Refay0TF4YsNPa172iJfIVUoDUABXysQb7TIbLJxi4pYm5OSRLcTauJsD2h2T_S28-hWzaqjwYumh_yNrg",
 		"expires_in": 3599,
-		"scope": "https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email openid",
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase",
 		"token_type": "Bearer",
-		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNkZjBhODMxZTA5M2ZhZTFlMjRkNzdkNDc4MzQ0MDVmOTVkMTdiNTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExNjU4NTUyMTc0MjM0MzM3OTYxIiwiZW1haWwiOiJldGhhbmg4MDkzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiTmpiRTA1WWd6aGNRNGpVZFpxT09TZyIsImlhdCI6MTYyNzU3OTQyMiwiZXhwIjoxNjI3NTgzMDIyfQ.bI4t4zNW8tyobUaQCT071tP4CxC8ZkXwS8iWBLLJKGaK-4AQBdIYtpI-7YVqwIs-K-gHdOHYrV2hAmz0triIQQlLhnu0-Hyc5GY_fX6t5ju3MCg6RTE-AK_qfArWFC5hPKSoJrWAfomgyqN1MghrtyR9NhoPE0Jr0-HPV3DW2h3WaM8gtbNH7Skcs6Djg8zVWp98hiG_eHn3WpkIXas_WZsyg56g5YB3frCnnM4HGD5tS2vaxb2PGNFodKl1Oxv9YZsJad504bQbDuG0VxVQS1kBDF1OTO86KQ5dUU_em5eFhBbO8MPKYT_6EhqVJyZJBLmSx8SGAwFBvqtOThWGZA"
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNkZjBhODMxZTA5M2ZhZTFlMjRkNzdkNDc4MzQ0MDVmOTVkMTdiNTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExNjU4NTUyMTc0MjM0MzM3OTYxIiwiZW1haWwiOiJldGhhbmg4MDkzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiSll3Vkt5Xzg1U0VFLXFDR3VpQnJ1USIsImlhdCI6MTYyNzY5Nzk0NCwiZXhwIjoxNjI3NzAxNTQ0fQ.iuYGezMsIOjfUDWAqztLtHxZQlKgarkci-2IQjV5g5Nct-3aYKwxRt-kDmR5RhKpHb56UIA5cWlnloZ5k34ZMj1kFzgK1MYDoApR_Yvx_-DocLYs4bmg4ZZ4KAIdkiPsRdUhZESsPGjbH1_JewvljeuLPjuWvnX7m9qIUVPur_h_VeJq6GV1SamanbT-R38IHmMFOYE6GX_HFkwYVpLKx6t6zLtpjOTPoAxdzzOGu0B7rQ8sJQ2xf5glRWQVH1n2fTjHHA81D90s_HxcijSfPWijdLOK4-Qe_Z4PjAMe6yAiRoPbuzwFt_2aB8_J_JQsl356mg6KAzfG6yeIjs7kEg"
 	},
 	"loginScopes": [
 		"email",
@@ -49,9 +43,10 @@
 		"/home/ethanh8093/cssi-day8": "secret-messaging-app-49110",
 		"/home/ethanh8093/cssi-day9": "development",
 		"/home/ethanh8093/cssi-day11": "keep-7497e",
-		"/home/ethanh8093": "keep-7497e",
+		"/home/ethanh8093": "mentalhealthjournal",
 		"/home/ethanh8093/cssiFirebaseNotes": "keep-7497e",
-		"/home/ethanh8093/cssiFirebaseNotes2": "day13"
+		"/home/ethanh8093/cssiFirebaseNotes2": "day13",
+		"/home/ethanh8093/address/cssi-finalproject": "mentalhealthjournal"
 	},
 	"webconfig": {
 		"secret-messaging-app-49110": {
@@ -81,7 +76,15 @@
 			"authDomain": "keep-7497e.firebaseapp.com",
 			"messagingSenderId": "972579836696",
 			"measurementId": "G-W3HSNQSV4L"
+		},
+		"mentalhealthjournal": {
+			"projectId": "mentalhealthjournal",
+			"databaseURL": "https://mentalhealthjournal-default-rtdb.firebaseio.com",
+			"storageBucket": "mentalhealthjournal.appspot.com",
+			"apiKey": "AIzaSyCJGgdpZTu3iDFZhV6kpTaf1YyTOIv_6UE",
+			"authDomain": "mentalhealthjournal.firebaseapp.com",
+			"messagingSenderId": "797614581627"
 		}
 	},
-	"lastError": 1627582361216
+	"lastError": 1627693649383
 }

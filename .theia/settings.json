@@ -12,5 +12,5 @@
       "**/.git/**": true,
       "**/node_modules/**": true
 },
-"csharp.suppressDotnetRestoreNotification": true
+"csharp.suppressDotnetRestoreNotification": false
 }

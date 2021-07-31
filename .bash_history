@@ -373,3 +373,76 @@ firebase init
 firebase use --add
 git clone https://github.com/ryanchen321/cssiFirebaseNotes3.git
 firebase emulators:start --only hosting
+git add .
+git commit -m "Added sorting functionality
+
+git commit -m "added sorting functionality"
+git push origin master
+git push
+git push master
+git push origin main
+git push
+git push --set-upstream master master
+git pull https://github.com/ryanchen321/cssiFirebaseNotes3
+cd cssi-final project
+cd cssi-finalproject
+cd
+cd cssi-finalproject
+cd address
+cd cssi-finalproject
+git clone https://github.com/ehus33/cssiFinalProject.git
+git add .
+git status
+git commit -m "Initial Commit"
+git push origin master
+git push
+git push origin main
+git push origin master
+git config global user.name "Ethan Hu"
+echo "https://ehus33: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@github.com" > ~/.git-credentials
+git push origin master
+echo "https://ehus33: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@github.com" > ~/.git-credentials
+git status
+git login
+git config --global user.email "ethanh8093@gmail.com"
+git config --global user.name "Ethan Hu"
+git remote set-url origin https://github.com/ehus33/cssiFinalProject.git
+git remote set-url origin git@github.com:ehus33/cssiFinalProject.git
+cd cssiFinalProject
+git add .
+git commit -m "Initial commit"
+git pull
+firebase init
+firebase-debug.log
+firebase init
+cd
+git pull https://github.com/ehus33/cssiFinalProject.git
+firebase init
+cd cssi-finalproject
+cd address
+cd cssi-finalproject
+git pull https://github.com/ehus33/cssiFinalProject.git
+firebase emulators
+firebase init
+git push origin main
+git push origin master
+git login
+git config --global user.name "Ethan Hu"
+git config --global user.email "ethanh8093@gmail.com"
+git commit -m ""
+git push
+git push origin
+git push origin main
+firebase emulators start: hosting
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+git clone https://github.com/ehus33/cssiFinalProject.git
+cd cssiFinalProject
+git add .
+cd
+git add .
