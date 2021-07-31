@@ -446,3 +446,28 @@ cd cssiFinalProject
 git add .
 cd
 git add .
+git commit -m "Made changes to web layout. Need some minor tweaks"
+git push origin main
+git push
+git push origin master
+push origin
+git push
+git push origin
+git push origin master
+git clone git@github.com:ehus33/cssiFinalProject.git
+<html lang="en">
+<head>
+</head>
+<body>
+</body>
+<html lang="en">
+<head>
+</head>
+<body>
+</body>
+git clone git@github.com:ehus33/cssiFinalProject.git
+gh repo clone ehus33/cssiFinalProject
+gh auth login
+git push origin main
+git push origin master
+git clone https://github.com/ehus33/cssiFinalProject.git
