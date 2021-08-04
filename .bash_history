@@ -1,256 +1,3 @@
-mkdr media
-touch songs.txt
-ls
-pwd
-mkdir songs
-touch younger-me.txt
-touch say-it.txt
-touch {1..5}.txt
-rm 1.txt
-cd songs
-touch younger-me.txt
-cd
-mkdir media
-cd media
-cd
-mkdir address
-cd address
-touch address_{1..10}.txt
-open address_1.txt
-git config --global user.name "FIRST_NAME LAST_NAME"
-git config --ehus33 "Ethan Hu"
-$ git config --global user.email "ethanh8093@gmail.com"
-git config --global user.email "ethanh8093@gmail.com"
-git config --global user.name "Ethan Hu"
-echo "https://ehus33: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@github.com" > ~/.git-credentials
-git config --global credential.helper store
-git clone https://github.com/<student>/cssi-dayN.git
-git clone https://github.com/ehus33/cssi-day8.git
-cd cssi-day8
-pwd
-firebase
-firebase login
-firebase login --no-localhost
-firebase deploy
-firebase login
-npm install-g firebase tools
-npm install -g firebase tool
-firebase init
-firebase emulators: start only heading
-firebase emulators: start only hosting
-firebase emulators:start only hosting
-run project
-localhost:5000
-cd secretMessageApp
-cd secretMessage
-cd secretMessageApp
-cd secretMessagingApp
-ls
-firebase init
-emulator start
-firebase emulators:start --only hosting
-ls
-cd
-cd cssi-day8
-git status
-git add
-git add .
-git add
-git add .
-git commit
-git commit -m "I added 5 files 3 modified"
-git push
-git pull
-git clone https://github.com/ehus33/cssi-day9.git
-cd
-pwd
-cd cssi-day9
-pwd
-firebase emulators:start --only hosting
-firebase use --add
-firebase emulators:start --only hosting
-const passcode = document.querySelector().value;
-firebase emulators:start --only hosting
-cd cssi-day9
-git status
-git add
-git add .
-git commit -m "Added functionality to write a message to database"
-git push
-cd https://github.com/ehus33/cssi-day10
-cd https://github.com/ehus33/cssi-day10.git
-push https://github.com/ehus33/cssi-day10.git
-commit https://github.com/ehus33/cssi-day10.git
-git clone https://github.com/ehus33/cssi-day10.git
-cd
-cd https://github.com/ehus33/cssi-day10.git
-git clone https://github.com/ehus33/cssi-day10.git
-git add
-git commit -m I added a couple of files
-git push
-cd file:///home/ethanh8093/cssi-day9/firebase.json
-file:///home/ethanh8093/cssi-day9/database.rules.json
-cd https://github.com/ehus33/cssi-day10.git
-git clone https://github.com/ehus33/cssi-day10.git
-git add
-git add .
-ls
-cd https://github.com/ehus33/cssi-day10.git
-cd cssi-day10
-git add .
-git commit -m Initial commit
-git commit -m'Initial commit'
-git push
-git pull
-firebase init
-firebase emulators:start --only hosting
-nfigure security rules and indexes files for Firestore
-firebase emulators:start --only hosting
-ls
-nfigure security rules and indexes files for Firestore
-s
-ls
-cd nfigure security rules and indexes files for Firestore
-clone nfigure security rules and indexes files for Firestore
-firebase emulators:start --only hosting.
-firebase init emulators
-firebase login
-npm install -g firebase-tools
-firebase emulators:start --only hosting
-ls
-cd Shoppifi
-firebase emulators:start --only hosting
-git pull
-firebase login
-cd cssi-day10
-firebase login
-cd ../..
-cd cssi-day10
-firebase login
-git pull
-firebase emulators:start --only hosting
-ls
-firebase login
-cd cssi-day11
-firebase login
-npm install -g firebase tools
-firebase init
-git clone https://github.com/ehus33/cssi2021-14t
-git clone https://github.com/ehus33/cssi2021-14.git
-ls
-echo "#CSSI 2014" >  README.md
-ls
-cat README.md
-git status
-git add README.md
-git commit -m "Initial Commit"
-cd cssi2021-14
-git status
-git add README.md
-git commit -m "Initial Commit"
-git remote show origin
-git remote add origin https://github.com/ehus33/cssi2021-14.git
-git push origin main
-git branch -M main
-git remode add origin https://github.com/ehus33/cssi2021-14.git
-git remote add origin https://github.com/ehus33/cssi2021-14.git
-git branch -M main
-git init
-git add ReADME.md
-git add README.md
-echo '#cssi2021-14" >> README.md
-git add README.md
-git commit -m 'initial commit'
-git branch -M main
-cd cssi2021
-echo '#cssi2021-14' >> README.md
-git add README.md
-git commit -m 'initial commit'
-git branch -M main
-git remote add origin https://github.com/ehus33/cssi2021-14.git
-git push -u origin main
-ls
-git checkout -b readme-about
-git status
-git diff
-git add README.md
-git status
-git add README.md
-git status
-git add README.md
-git status
-git commit README.md -m Added one line
-git commit README.md -m "added one line"
-cd
-git status
-cd cssi2021-14
-cd cssi-day11
-cd cssi2021-14
-git add README.md
-git status
-unbranch
-git add README.md
-git status
-branch main
-git branch main
-merge branch
-git add README.md
-git checkout -b main
-git checkout -b readme-about
-git status
-git add README.md
-git status
-git commit -m "add about section to readme"
-git push origin readme-about
-git checkout -b readme-about
-git status
-git add README.md
-git status
-git commit -m "add about section to readme"
-cd
-git add README.md
-cd cssi-day11
-cd cssi2021-14
-git add README.md
-git status
-git pull https://github.com/ehus33/cssi2021-14
-git add README.md
-git status
-git checkout -b conflict-branch
-git add README.md
-git status
-git commit -m " a conflicting change"
-git push origin
-git push origin conflict-branch
-cd
-cd cssi_11_14
-cd cssi_day11_14
-cd cssi-day_11_14
-git clone https://github.com/sophiec103/cssi-day11.git
-git add .
-cd cssi-day10
-cd cssi-day11
-git add .
-git commit -m "Added stuff"
-git push
-git add .
-git commit -m "Created message"
-git push origin master
-git push
-firebase init
-git clone
-git clone https://github.com/chrisboaks/cssiFirebaseNotes.git
-npm install -g firebase-tools
-git clone https://github.com/ehus33/cssiFirebaseNotes.git
-git clone 
-git clone https://github.com/ehus33/cssiFirebaseNotes.git
-https://github.com/ehus33/cssiFirebaseNotes.git
-git clone https://github.com/ehus33/cssiFirebaseNotes.git
-firebase login
-firebase init
-npm install firebase-tools
-firebase login
-firebase init
 firebase emulators: start --onlyhosting
 firebase emulators: start --only hosting
 firebase init
@@ -471,3 +218,283 @@ gh auth login
 git push origin main
 git push origin master
 git clone https://github.com/ehus33/cssiFinalProject.git
+git add .
+git commit -m "test commit"
+git push origin master
+cd cssiFinalProject
+git commit .
+git add .
+git commit -m "Test commit"
+git push origin main
+git pull
+cd cssiFinalProject
+git add .
+git commit -m "Added new Styles"
+git push origin main
+git pull
+git add .
+git commit -m "Changed Styling to make neat
+"
+git push origin master
+git push origin main
+git pull
+git add .
+git commit -m "Added new functionality to the website"
+git push origin master
+git push origin main
+firebase emulators:start --only hosting
+git add .
+cd cssifinalproject
+cd cssiFinalProject
+firebase emulators:start --only hosting
+git add .
+git commit -m "I built the basic web design
+"
+git push origin master
+git push origin main
+git pull
+firebase emulators:start --only hosting
+cd cssiFinalProject
+git pull
+cd cssiFinalProject
+git pull
+cd cssiFinalProject
+firebase emulators:start --only hosting
+cd
+cd cssiFinalProject
+firebase emulators:start --only hosting
+cd cssiFinalProject
+firebase emulators:start --only hosting
+cd cssiFinalProject
+firebase emulators:start --only hosting
+git add .
+git commit -m "Minor design update"
+git add .
+git commit -m "Minor Web design Update"
+git push
+git pull
+git add .
+git commit -m "Added mouse reaction time, formatted page html, and tested stuff..."
+git push
+git add .
+git commit -m "Minor tweaks"
+git push
+git pull
+git clone https://github.com/ehus33/cssiFinalProject.git
+firebase init
+git add .
+git commit -m "Minor tweaks"
+git push
+git pull
+git push
+git add .
+git commit -m"text commit"
+git add .
+git commit -m "test commit"
+git commit -m "minor design updat
+
+git reset --hard e3d7f38175b0cacffccfdd79b73f1e2d43469190
+git reset --hard e3d7f38
+git revert
+git revert 97e6ce1
+git revert e3d7f38
+git add .
+git reset e3d7f38175b0cacffccfdd79b73f1e2d43469190
+git add .
+git reset e3d7f38175b0cacffccfdd79b73f1e2d43469190
+git status
+git add .
+git status
+git commit -m "Reverting bad commit
+"
+git push origin main
+git pull
+git add .
+git commit -m "Reverted Previous Mistakes"
+git push
+git pull
+firebase emulators:start --only hosting
+firebase emulators start --only hosting
+firebase emulators: start --only hosting
+firebase emulators:start --only hosting
+git add .
+git commit -m "Basic Housekeeping
+"
+git push origin main
+git pull
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+git add .
+git commit -m "Modified Web Design Elements
+"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Stylized Buttons on Add Journal"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Created simple game of sticks"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Optimized game of sticks with turns and reset"
+git push
+git pull
+git add .
+git commit -m "Test"
+git push
+git pull
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+git add .
+git commit -m "Working on changing mouse effects"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Added HTML and Methods for Number Guessing Game"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Reverted Previous Mistakes"
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git add .
+git commite -m "Changed Mouse Icon"
+git commit -m "Changed Mouse Icon"
+git push
+git pull
+firebase emulators:start --only hosting
+g
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Added Hypnosis Stress Relief"
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+git add .
+git commit -m "Added Login Javascript"
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+firebase init
+firebase emulators:start --only hosting
+git add .
+git commit -m "Made Authentication work on my end"
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+git pull origin master
+cd cssifinalproject
+cd cssiFinalProject
+git pull
+git add .
+git commit -m "Merge conflict Prevention"
+git push
+git pull
+git push
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+git add .
+git commit =m "Housekeeping"
+git commit -m "Housekeeping"
+git push
+git pull
+git commit -m "housekeeping"
+git add .
+git commit -m "housekeeping
+"
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Started transitioning into light/dark for activities.html"
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Added stuff for an activities menu"
+git pull
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Made Menu Complete"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "I added a playlist to activities"
+git push
+git pull
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+git add .
+git commit -m "Added Clock"
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+firebase emulators:start --only hosting
+git pull
+git add .
+git commit -m "Adjusted Menu Links"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "Added more interesting things to the menu"
+git push
+git pull
+firebase emulators:start --only hosting
+git pull
+git add .
+git commit -m "Checkin ritual"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "linked journal page to the activities page"
+git push
+git pull
+firebase emulators:start --only hosting
+git add .
+git commit -m "minor updates"
+git push
+git pull
+firebase emulators:start --only hosting

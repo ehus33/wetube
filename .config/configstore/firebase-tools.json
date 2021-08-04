@@ -8,7 +8,7 @@
 		"node8DeploysDisabledAfter": 1613390400000,
 		"node8RuntimeDisabledAfter": 1615809600000,
 		"node8WarnAfter": 1600128000000,
-		"fetched": 1627671999360
+		"fetched": 1628055052087
 	},
 	"usage": true,
 	"user": {
@@ -23,14 +23,14 @@
 		"exp": 1626894586
 	},
 	"tokens": {
-		"expires_at": 1627701543459,
+		"expires_at": 1628058651387,
 		"refresh_token": "1//06WECL5S9gIU7CgYIARAAGAYSNwF-L9Ir0UTuuy3EyuDkY5IgKFLAWogjER3IVuJq7rA0D84J3_ZPS8UIsqlgBwlIqbW3MH2JhmQ",
 		"scopes": [],
-		"access_token": "ya29.a0ARrdaM9BDVcVcZlz3OxDnGvRN8_5bH4UT9ulPhIQtMMrg52rpxm0-GAzGR8cF3z1il1pvQYc4F0YWPaYd2E2Refay0TF4YsNPa172iJfIVUoDUABXysQb7TIbLJxi4pYm5OSRLcTauJsD2h2T_S28-hWzaqjwYumh_yNrg",
+		"access_token": "ya29.a0ARrdaM9ZwnMBmF7_7TxTXqzdTRibcs8i6toFmKngtO27fCSTNIsmSRXqZaE376Rc6cdjWaS_yBFuS_OLXisoYXKkpS_c2ZCvjR0-4fhwiXGYGFNbU8v1ldaBsmWNet9M3I_eMpiWGZbycwbqmqkX8HOiaHUYpb2UX4FFcg",
 		"expires_in": 3599,
-		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform",
 		"token_type": "Bearer",
-		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNkZjBhODMxZTA5M2ZhZTFlMjRkNzdkNDc4MzQ0MDVmOTVkMTdiNTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExNjU4NTUyMTc0MjM0MzM3OTYxIiwiZW1haWwiOiJldGhhbmg4MDkzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiSll3Vkt5Xzg1U0VFLXFDR3VpQnJ1USIsImlhdCI6MTYyNzY5Nzk0NCwiZXhwIjoxNjI3NzAxNTQ0fQ.iuYGezMsIOjfUDWAqztLtHxZQlKgarkci-2IQjV5g5Nct-3aYKwxRt-kDmR5RhKpHb56UIA5cWlnloZ5k34ZMj1kFzgK1MYDoApR_Yvx_-DocLYs4bmg4ZZ4KAIdkiPsRdUhZESsPGjbH1_JewvljeuLPjuWvnX7m9qIUVPur_h_VeJq6GV1SamanbT-R38IHmMFOYE6GX_HFkwYVpLKx6t6zLtpjOTPoAxdzzOGu0B7rQ8sJQ2xf5glRWQVH1n2fTjHHA81D90s_HxcijSfPWijdLOK4-Qe_Z4PjAMe6yAiRoPbuzwFt_2aB8_J_JQsl356mg6KAzfG6yeIjs7kEg"
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBmY2MwMTRmMjI5MzRlNDc0ODBkYWYxMDdhMzQwYzIyYmQyNjJiNmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExNjU4NTUyMTc0MjM0MzM3OTYxIiwiZW1haWwiOiJldGhhbmg4MDkzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiQ1BpXzhnWnZUdW9fRE01enZCWnFkQSIsImlhdCI6MTYyODA1NTA1MiwiZXhwIjoxNjI4MDU4NjUyfQ.MkMhTDs6QkzkxBAnkhxuWaqSMloATjfpaK-FDKP-qBti-Lr1LR4UfdFczwbiOQJnsQqTIl_F5y_ntBWRjzuzerKmXuUZ-L8mQjw3E1X38dDb6rel7VfTJhnoLGWxo2fNeOgUrXse8Wuv0M7cwVAnf5bdgys1IWtbsVfIr2ZhxHNlG4XVNnVcvWn40C26f1Lo7PTcN4qFDi0VwM5CdGoyuhbYac-WkGw0bj6Wod7VZpodptTp3pw_yuWS4ixoqExL7qX2KyjtjBNMbf-kZtmz9nvOZeyvhVbAiUAF9DW20-sqSsoTIZ5brsi3WymelNrVtoC6oNkkILhUrU7nj-MPKA"
 	},
 	"loginScopes": [
 		"email",
@@ -84,7 +84,15 @@
 			"apiKey": "AIzaSyCJGgdpZTu3iDFZhV6kpTaf1YyTOIv_6UE",
 			"authDomain": "mentalhealthjournal.firebaseapp.com",
 			"messagingSenderId": "797614581627"
+		},
+		"cssifinalproject-16d68": {
+			"projectId": "cssifinalproject-16d68",
+			"appId": "1:1035489875696:web:ecccd5c9565c6f0e84d435",
+			"databaseURL": "https://cssifinalproject-16d68-default-rtdb.firebaseio.com",
+			"storageBucket": "cssifinalproject-16d68.appspot.com",
+			"apiKey": "AIzaSyB7xKXtn6wJag3VBTQjA3dHLHFak9_MIp8",
+			"authDomain": "cssifinalproject-16d68.firebaseapp.com",
+			"messagingSenderId": "1035489875696"
 		}
-	},
-	"lastError": 1627693649383
+	}
 }
